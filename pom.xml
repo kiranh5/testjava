@@ -12,12 +12,12 @@
         <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
 
-    <dependencies>
+  <!--<dependencies>
     <dependency>
       <groupId>cloud.altemista.fwk.thymeleaf</groupId>
       <artifactId>cloud-altemistafwk-core-thymeleaf-conf</artifactId>
     </dependency>
-  </dependencies>
+  </dependencies>-->
 
     <build>
         <plugins>
